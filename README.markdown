@@ -3,7 +3,7 @@ Bevy + Blender Third-Person 3D Game Template
 
 This is a template project for developing 3D games using the [Bevy](https://bevyengine.org/) engine, with [Blender](https://www.blender.org/) as a visual editor.
 
-It is based on [kaosat-dev's toolkit](https://github.com/sdfgeoff/blender_bevy_toolkit) and also makes use of the [Bevy asset loader plugin](https://github.com/NiklasEi/bevy_asset_loader).
+It is based on [kaosat-dev's toolkit](https://github.com/kaosat-dev/Blender_bevy_components_workflow) and also makes use of the [Bevy asset loader plugin](https://github.com/NiklasEi/bevy_asset_loader).
 
 I make absolutely no claims as to whether this repository's contents reflect good practices — I am just sharing the result of my trying to setup a working project. If you do see something problematic or perfectible, though, please let me know.
 
