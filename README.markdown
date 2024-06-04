@@ -45,3 +45,4 @@ Using in Your Own Project
 pub myobject: Handle<bevy::gltf::Gltf>,
 ```
 
+See [the documentation](https://github.com/kaosat-dev/Blender_bevy_components_workflow/tree/main/crates/bevy_gltf_blueprints) and [the video demo](https://www.youtube.com/watch?v=CgyNtwgYwdM) for more details.
